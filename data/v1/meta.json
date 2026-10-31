@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated_at": "2026-10-31T15:46:58.511061+00:00",
-  "total_repositories": 149,
+  "generated_at": "2026-10-31T20:02:24.258840+00:00",
+  "total_repositories": 146,
   "endpoints": {
     "all": "https://siddharthakki.github.io/stackfit/data/repos.json",
     "rss": "https://siddharthakki.github.io/stackfit/data/feed.xml",
